@@ -1,0 +1,24 @@
+{
+  "fishes": [
+    {
+      "id": 1,
+      "name": "Stříbřenka",
+      "size": "velká"
+    },
+    {
+      "id": 2,
+      "name": "Nemo",
+      "size": "malá"
+    },
+    {
+      "id": 3,
+      "name": "Hvězdička",
+      "size": "velká"
+    },
+    {
+      "id": 4,
+      "name": "Dory",
+      "size": "malá"
+    }
+  ]
+}
